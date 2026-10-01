@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<animals>
+  <animal>
+   <espècie>Tauró blanc</espècie>
+   <tipus>Peix</tipus>
+   <hàbitat>Oceànic</hàbitat>
+   <grandaria>
+     <longitud unitat="metres">6.4</longitud>
+     <pes unitat="quilograms">1,900</pes>
+   </grandaria>
+   <estatconservacio>En perill</estatconservacio>
+    <caracteristiques>
+     <caracteristica>Depredador superior</caracteristica>
+      <caracteristica>Temut als oceand per la seva grandària i ferocitat</caracteristica>
+    </caracteristiques>
+  </animal>
+  <animal>
+   <espècie>Balena blava</espècie>
+   <tipus>Mamífer marí</tipus>
+   <hàbitat>Oceànic</hàbitat>
+   <grandaria>
+     <longitud unitat="metres">30</longitud>
+     <pes unitat="quilograms">200,000</pes>
+   </grandaria>
+   <estatconservacio>En perill crític</estatconservacio>
+    <caracteristiques>
+     <caracteristica>L'animal més gran del planeta</caracteristica>
+      <caracteristica>S'alimenta principalment de krill</caracteristica>
+    </caracteristiques>
+  </animal>
+  <animal>
+   <espècie>Tortuga verda</espècie>
+   <tipus>Rèptil</tipus>
+   <hàbitat>Marí</hàbitat>
+   <grandaria>
+     <longitud unitat="metres">1.5</longitud>
+     <pes unitat="quilograms">150</pes>
+   </grandaria>
+   <estatconservacio>Vulnerable</estatconservacio>
+    <caracteristiques>
+     <caracteristica>S'alimenta principalment d'algues marines</caracteristica>
+      <caracteristica>Realitza migracions de milers de quilòmetres</caracteristica>
+    </caracteristiques>
+  </animal>
+</animals>
